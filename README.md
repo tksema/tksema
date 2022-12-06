@@ -46,6 +46,9 @@
 [vsCode]: https://code.visualstudio.com/
 [java]: https://www.java.com/
 [selenium]: https://www.selenium.dev/
+[postgresql]: https://www.postgresql.org/
+[sql]: https://www.w3schools.com/sql/
+[html]: https://www.w3schools.com/html/
 [github]: https://https://github.com/AliihsanSen
 [cucumber]: https://cucumber.io/
 
