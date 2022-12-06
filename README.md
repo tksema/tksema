@@ -39,3 +39,23 @@
 <a href="https://www.api.com" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFpswKqlwex1UtYOHT6cWIVsJ3dQfEg__lFQ&usqp=CAU" alt="api" width="30" height="30"/> </a>
 <a href="https://postman.com" target="_blank" rel=”noopener”> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="30" height="30"/> </a>
 <a href="https://swagger.io/" target="_blank" rel=”noopener”> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2-qHhkU65OgRkaxFh1vRF4ycDfUOznjs7cEu5aXbMwWCYpNUMNPfDcL9Fox0a3_mbtAY&usqp=CAU" alt="swagger" width="30" height="30"/> </a>
+
+
+
+
+[vsCode]: https://code.visualstudio.com/
+[java]: https://www.java.com/
+[selenium]: https://www.selenium.dev/
+[github]: https://https://github.com/AliihsanSen
+[cucumber]: https://cucumber.io/
+
+
+
+
+
+
+
+
+
+
+
