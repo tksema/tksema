@@ -30,7 +30,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tksema&show_icons=true&theme=synthwave)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tksema&layout=compact&langs_count-16&theme=dracula"/>
+
 
 
 
