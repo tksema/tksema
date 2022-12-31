@@ -17,10 +17,13 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tksema&show_icons=true&theme=synthwave) 
 
 
 
+<br>
+
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=tksema&count_private=true&theme=tokyonight&showicons=true)]()
+<br>
 
 
 
