@@ -16,7 +16,7 @@
 <h1 align="center">
 
  
- 
+
 
 
 
@@ -131,7 +131,7 @@
 
 
 
-
+ <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tksema&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 
 
