@@ -21,7 +21,7 @@
 
 
 |![github-user-contribution (6)](https://user-images.githubusercontent.com/109308073/210966148-18099034-d443-450e-b167-cc8305550591.svg)|
-|---|
+ |---|
 
 
 
@@ -131,7 +131,6 @@
 
 
 
- <img src="https://github-readme-activity-graph.cyclic.app/graph?username=tksema&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 
 
