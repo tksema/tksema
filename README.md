@@ -1,7 +1,7 @@
 
  <h1 align=center style="color:aqua" >Hi 👋🏻 Welcome to my GitHub profile  🍀
  </h1>
- <h2>My name is Sema </h2>
+ <h2>My name is Sema , I'm Software Automation Test Engineer </h2>
  
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=Full+Stack+Automation+Engineer+%7C+Turkey;I+am+Software+Test+Engineer.;I+am+sharing+my+projects+in+here;I+suggest+you+review+it+to+know+about+me+👩🏻‍💻;)  
 
