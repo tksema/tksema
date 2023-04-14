@@ -19,7 +19,10 @@
 
 |![github-user-contribution (6)](https://user-images.githubusercontent.com/109308073/210966148-18099034-d443-450e-b167-cc8305550591.svg)|
  |---|
-
+<!-- profile view count. replace username with yours-->
+<p align="left"> 
+	<img src="https://komarev.com/ghpvc/?username=abayramus&label=Profile%20views&color=0e75b6&style=flat" alt="tksema" /> 
+</p>
 
 
 
