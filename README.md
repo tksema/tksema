@@ -37,15 +37,6 @@
  
 
 
-<p align="center">
-    <img height="170em" src="https://awesome-github-stats.azurewebsites.net/user-stats/tksema?cardType=github&theme=buefy")/>
-    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tksema&layout=compact&langs_count=8&theme=buefy"/>
-</p>
-
- 
-<p align="center">
-<img height="230em" src="https://github.com/tksema/tksema/blob/main/e7b7eb9f2a0a86aef96baad7e7327983.gif"/>
-</p>
 
 
 
