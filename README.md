@@ -32,6 +32,7 @@
 
 
 
+<!-- <img align=beside width=190 src="https://github.com/tksema/tksema/blob/main/6c9d78ff0aef15b00a358ab718ed3aca.gif" /> --!>
 
  
 
