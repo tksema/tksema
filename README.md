@@ -1,5 +1,5 @@
 
- <h1 align=center style="color:aqua" >Hi 👋🏻 Welcome to my GitHub profile  🍀
+ <h1 align=center style="color:aqua" >Hi 👋🏻 Welcome to my GitHub profile 🍀
  </h1>
  <h2>My name is Sema  </h2>
  
@@ -22,7 +22,7 @@
  |---|
 <!-- profile view count. replace username with yours-->
 <p align="left"> 
-	<img src="https://komarev.com/ghpvc/?username=abayramus&label=Profile%20views&color=0e75b6&style=flat" alt="tksema" /> 
+	<img src="https://komarev.com/ghpvc/?username=abayramus&label=Profile%20views&color=0e75b6&style=flat" alt="tksema" />🌻 
 </p>
 
 
