@@ -1,5 +1,5 @@
 
- <h1 align=center style="color:aqua" >Hi 👋🏻 Welcome to my GitHub profile 🍀
+ <h1 align=center style="color:aqua" >Hi 👋🏻 Welcome to my profile 🍀
  </h1>
  <h2>My name is Sema , every day is a learning day for me ♡ </h2>
  
