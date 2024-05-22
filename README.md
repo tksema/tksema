@@ -6,7 +6,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=Full+Stack+Automation+Engineer+%7C+Turkey;I+am+Software+Automation+Test+Engineer.;I+am+sharing+my+projects+in+here;I+suggest+you+review+it+to+know+about+me+👩🏻‍💻;)  
 
  
-## Skills: Java| C#| Selenium| Cucumber BDD| JIRA| SQL| API| Postman| JMeter| Appium|
+## Skills: Java| Selenium| Cucumber BDD| JIRA| SQL| API| Postman| JMeter| Appium
 
 
 
