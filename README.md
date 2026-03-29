@@ -4,6 +4,8 @@
  <h2>♡Every day is a new learning day for me ♡</h2>
  
 ## [My Licenses and Certifications](https://www.linkedin.com/in/tksema/details/certifications/)
+## [My Skills](https://www.linkedin.com/in/tksema/details/skills/)
+
 
 |![github-user-contribution (6)](https://user-images.githubusercontent.com/109308073/210966148-18099034-d443-450e-b167-cc8305550591.svg)|
  |---|
