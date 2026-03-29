@@ -7,16 +7,6 @@
 
 
 
-
-
-
-
-  <img src="https://myways-public-data-prod.s3.ap-south-1.amazonaws.com/myways-resource-library/blogs/upcoming-career-opportunities-in-2022-cc87b_Image_blogs.png" />
-<h1 align="center">
-
-
-
-
 |![github-user-contribution (6)](https://user-images.githubusercontent.com/109308073/210966148-18099034-d443-450e-b167-cc8305550591.svg)|
  |---|
 <!-- profile view count. replace username with yours-->
