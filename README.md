@@ -3,9 +3,6 @@
  </h1>
  <h2>♡Every day is a new learning day for me ♡</h2>
  
-![Typing SVG](https://readme-typing-svg.herokuapp.com?  
-
- 
 ## My Licenses and Certifications: 
 
 
