@@ -6,7 +6,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=Full+Stack+Automation+Engineer+%7C+Turkey;I+am+Software+Automation+and+AI+Test+Engineer.;I+am+sharing+my+projects+in+here;I+suggest+you+review+it+to+know+about+me+👩🏻‍💻;)  
 
  
-## My Licenses and Certifications: (https://www.linkedin.com/in/tksema/details/certifications/)
+## My Licenses and Certifications: https://www.linkedin.com/in/tksema/details/certifications/
 
 
 
