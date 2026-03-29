@@ -1,7 +1,7 @@
 
  <h1 align=center style="color:aqua" >Hello,I'm Sema👋🏻Welcome to my profile 🍀
  </h1>
-                    <h2>♡Every day is a new learning day for me ♡</h2>
+ <h2>♡  Every day is a new learning day for me  ♡</h2>
  
 ## [My Licenses and Certifications](https://www.linkedin.com/in/tksema/details/certifications/)
 ## [My Skills](https://www.linkedin.com/in/tksema/details/skills/)
